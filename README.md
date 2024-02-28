@@ -1,7 +1,11 @@
 # Meals
 
-A new Flutter project.
+Project to demonstrate my knowledge of Flutter and Dart.
 
-## Getting Started
+## About
 
+flutter app for managing personal expenses.
 
+## Author
+
+Nedson Nogueira Bomman Junior.
